@@ -1,15 +1,10 @@
 # ShellV2
 
-
-![PAKEK](https://user-images.githubusercontent.com/45889833/71785748-efa21c00-3035-11ea-994f-641368c6624a.png)
-
-
-
 MINI SHELL V2 :) SIMPLE, SANS, GAK RIBET !
 
 Gada Apa Apa :)
 
-
+SHELL V2 NO UPDATE 
 Fitur : 
 
 - Upload
@@ -17,4 +12,34 @@ Fitur :
 - Update
 - Rename
 
+
+SHELL V2 Update V.001
+Fitur :
+- Upload
+- Delete
+- Update
+- Rename
+- Kill
+- Login
+- Logout
+Size : 28,0 kB
+
+
 TINGGAL PAKEK AJA GAN :) 
+
+
+#disclaimer
+
+	* Konsep Shell : Me { IndoSec }-
+	* Pembuat : Arikun - { IndoSec }
+	
+	* Re-Code Boleh Asal Dah Izin Sama Pembuat, Ganti Author & Re-Code Tanpa Seizin Pembuat... Fix Lo Noob Anjenk
+	* Klo Kga Bisa Bikin Cek Chanel IndoSec, Ada Tutornya, Jangan Cuma Bisa Ganti Author Doank Bangsad
+	* https://www.youtube.com/playlist?list=PLAAbQaUpDeM7nGwS6WfaTm_cPC3RUiswi
+
+	* Thanks For All Member { IndoSec }, Yang Telah Membantu Proses Pembuatan Shell,Dan Dari Shell Lain Untuk Inspirasinya
+
+	* { IndoSec sHell }
+	* �2020 { IndoSec } -Arikun-
+	* Contact Me? fb.com/uhuy.kun, WhatsApp? Cek Bio Fb
+	* Nb: shell ini blm sepenuhnya selesai, jadi kalau menemukan error/tampilan tidak bagus/tidak responsive harap dimaklumi.  V 0.2

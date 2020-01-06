@@ -11,7 +11,7 @@ Fitur :
 - Delete
 - Update
 - Rename
-
+Size : 23.9 KB
 
 SHELL V2 Update V.001
 Fitur :
@@ -42,4 +42,4 @@ TINGGAL PAKEK AJA GAN :)
 	* { IndoSec sHell }
 	* �2020 { IndoSec } -Arikun-
 	* Contact Me? fb.com/uhuy.kun, WhatsApp? Cek Bio Fb
-	* Nb: shell ini blm sepenuhnya selesai, jadi kalau menemukan error/tampilan tidak bagus/tidak responsive harap dimaklumi.  V 0.2
+	* Nb: shell ini blm sepenuhnya selesai, jadi kalau menemukan error/tampilan tidak bagus/tidak responsive harap dimaklumi.

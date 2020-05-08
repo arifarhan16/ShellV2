@@ -10,8 +10,8 @@ Fitur :
 - Upload
 - Delete
 - Update
-- Rename
-Size : 23.9 KB
+- Rename<br>
+- Size : 23.9 KB
 
 SHELL V2 Update V.001
 Fitur :
@@ -21,8 +21,8 @@ Fitur :
 - Rename
 - Kill
 - Login
-- Logout
-Size : 28,0 kB
+- Logout <Br>
+- Size : 28,0 kB
 
 
 TINGGAL PAKEK AJA GAN :) 
